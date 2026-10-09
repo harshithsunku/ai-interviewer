@@ -41,7 +41,7 @@ Full guide: [Getting started](https://harshithsunku.github.io/ai-interviewer/get
 | Layer | Technology |
 |-------|------------|
 | Client | React 19 · Vite 8 · Tailwind CSS 4 · Framer Motion |
-| Server | Node.js 20 · Express 5 · `pg` · `groq-sdk` |
+| Server | Node.js 22 · Express 5 · `pg` · `groq-sdk` |
 | Database | PostgreSQL (Supabase) |
 | AI | Groq: `openai/gpt-oss-120b`, `whisper-large-v3-turbo`, `canopylabs/orpheus-v1-english` |
 | Hosting | Render (single web service), defined in `render.yaml` |

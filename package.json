@@ -9,6 +9,6 @@
     "dev": "nodemon server/index.js"
   },
   "engines": {
-    "node": "20.x"
+    "node": "22.x"
   }
 }

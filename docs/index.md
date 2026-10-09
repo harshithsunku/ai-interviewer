@@ -38,7 +38,7 @@ Practice technical interviews out loud. An AI interviewer asks role-specific que
 | Layer | Technology |
 |-------|------------|
 | Client | React 19, Vite 8, Tailwind CSS 4, Framer Motion |
-| Server | Node.js 20, Express 5, `pg`, `groq-sdk`, `multer` |
+| Server | Node.js 22, Express 5, `pg`, `groq-sdk`, `multer` |
 | Database | PostgreSQL (Supabase in production; any Postgres 13+ works) |
 | AI | Groq: `openai/gpt-oss-120b`, `whisper-large-v3-turbo`, `canopylabs/orpheus-v1-english` |
 | Hosting | One Render web service that serves the API and the built client |

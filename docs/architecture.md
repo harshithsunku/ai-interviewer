@@ -20,7 +20,7 @@ flowchart LR
     WS["speechSynthesis<br/>fallback voice"]
   end
 
-  subgraph Server["Express API (Node 20)"]
+  subgraph Server["Express API (Node 22)"]
     AUTH["/api/auth"]
     INT["/api/interview"]
     VOICE["/api/voice"]

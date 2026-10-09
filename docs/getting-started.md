@@ -11,7 +11,7 @@ nav_order: 2
 
 ## Prerequisites
 
-- **Node.js 20.19+** (Vite 8 needs it) and npm
+- **Node.js 22 LTS** and npm (Vite 8 needs at least 20.19)
 - **PostgreSQL 13+**: a local Docker container, or a free [Supabase](https://supabase.com) project
 - **A Groq API key** from [console.groq.com/keys](https://console.groq.com/keys). The free tier is enough.
 
